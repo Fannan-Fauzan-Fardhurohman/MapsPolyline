@@ -3,10 +3,12 @@ Maps Polyline with api from kotlin spring
 
 
 # Techstack
-> Kotlin
-> SDK Google Maps
-> Coroutines Flow
-> Retrofit
+```
+Kotlin
+SDK Google Maps
+Coroutines FLow
+Retrofit 2
+```
 
 # Screenshot
 
